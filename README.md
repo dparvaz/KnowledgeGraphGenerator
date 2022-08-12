@@ -55,7 +55,7 @@ Configuring KnowledgeGraph Generator involves the following major steps:
               
 
 * **Step 4.** **Download spacy english model:** Run following command to download the model 
-     <br>`python -m spacy download en`<br>
+  * `python -m spacy download en`
 
 ## Run KnowledgeGraph Generator
 ### Ubuntu
